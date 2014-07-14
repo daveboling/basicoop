@@ -1,0 +1,17 @@
+{
+  "name": "basicoop",
+  "version": "0.0.0",
+  "description": "Basic introduction to object oriented programming",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kadowki/basicoop.git"
+  },
+  "author": "Dave Boling",
+  "license": "ISC",
+  "homepage": "https://github.com/kadowki/basicoop",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "sync-prompt": "^0.4.1"
+  }
+}
